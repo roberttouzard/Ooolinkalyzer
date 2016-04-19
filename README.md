@@ -1,2 +1,2 @@
 # Ooolinkalyzer
-Describe and understand how OOO files are linked in an arbitrary folder or drive
+Describe and understand how OpenOffice files are linked to each other in an arbitrary folder or drive
